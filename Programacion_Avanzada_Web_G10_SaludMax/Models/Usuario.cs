@@ -23,7 +23,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Models
 
         [Display(Name = "Rol")]
         public int RolId { get; set; }
-        public Rol Rol { get; set; }
-        public ICollection<Cita> Citas { get; set; }
+        public Rol? Rol { get; set; }
+        public ICollection<Cita> Citas { get; set; } = new List<Cita>();
     }
 }

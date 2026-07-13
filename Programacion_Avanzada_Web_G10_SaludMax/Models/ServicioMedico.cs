@@ -13,6 +13,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Models
         [Required(ErrorMessage = "La descripción es obligatoria")]
         [Display(Name = "Descripción")]
         public string Descripcion { get; set; }
-        public ICollection<Cita> Citas { get; set; }
+
+        public ICollection<Cita> Citas { get; set; } = new List<Cita>();
     }
 }

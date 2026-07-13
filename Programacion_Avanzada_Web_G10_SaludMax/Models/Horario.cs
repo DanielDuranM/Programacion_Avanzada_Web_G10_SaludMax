@@ -10,6 +10,6 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Models
         [Display(Name = "Hora")]
         public TimeSpan Hora { get; set; }
 
-        public ICollection<Cita> Citas { get; set; }
+        public ICollection<Cita> Citas { get; set; } = new List<Cita>();
     }
 }
