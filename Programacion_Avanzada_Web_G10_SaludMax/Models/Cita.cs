@@ -21,7 +21,8 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Models
 
         [Required(ErrorMessage = "El horario es obligatorio")]
         [Display(Name = "Horario")]
-        public string Horario { get; set; }
+        public int HorarioId { get; set; }
+        public Horario Horario { get; set; }
 
         [Display(Name = "Estado")]
         public EstadoCita Estado { get; set; } = EstadoCita.Solicitada;

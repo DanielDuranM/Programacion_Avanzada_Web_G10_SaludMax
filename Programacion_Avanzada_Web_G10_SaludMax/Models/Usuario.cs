@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Programacion_Avanzada_Web_G10_SaludMax.Models.SaludMAX.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace Programacion_Avanzada_Web_G10_SaludMax.Models
 {
@@ -21,7 +22,8 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Models
         public string Contrasena { get; set; }
 
         [Display(Name = "Rol")]
-        public string Rol { get; set; } = "Usuario";
+        public int RolId { get; set; }
+        public Rol Rol { get; set; }
         public ICollection<Cita> Citas { get; set; }
     }
 }

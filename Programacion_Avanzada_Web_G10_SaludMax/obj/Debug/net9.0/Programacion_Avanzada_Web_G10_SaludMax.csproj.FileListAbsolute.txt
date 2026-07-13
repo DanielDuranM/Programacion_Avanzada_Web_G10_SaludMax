@@ -229,3 +229,4 @@ C:\Users\danon\OneDrive\Documents\GitHub\Programacion_Avanzada_Web_G10_SaludMax\
 C:\Users\danon\OneDrive\Documents\GitHub\Programacion_Avanzada_Web_G10_SaludMax\Programacion_Avanzada_Web_G10_SaludMax\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
 C:\Users\danon\OneDrive\Documents\GitHub\Programacion_Avanzada_Web_G10_SaludMax\Programacion_Avanzada_Web_G10_SaludMax\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.genruntimeconfig.cache
 C:\Users\danon\OneDrive\Documents\GitHub\Programacion_Avanzada_Web_G10_SaludMax\Programacion_Avanzada_Web_G10_SaludMax\obj\Debug\net9.0\ref\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\GitHub\Programacion_Avanzada_Web_G10_SaludMax\Programacion_Avanzada_Web_G10_SaludMax\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.sourcelink.json

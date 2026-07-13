@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Programacion_Avanzada_Web_G10_SaludMax.Models;
+using Programacion_Avanzada_Web_G10_SaludMax.Models.SaludMAX.Models;
 
 namespace Programacion_Avanzada_Web_G10_SaludMax.Data
 {
@@ -13,5 +14,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<ServicioMedico> ServiciosMedicos { get; set; }
         public DbSet<Cita> Citas { get; set; }
+        public DbSet<Rol> Roles { get; set; }
+        public DbSet<Horario> Horarios { get; set; }
     }
 }

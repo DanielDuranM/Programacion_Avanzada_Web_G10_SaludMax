@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programacion_Avanzada_Web_G10_SaludMax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543239263377aad916509391f7756b3c513e3101")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programacion_Avanzada_Web_G10_SaludMax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programacion_Avanzada_Web_G10_SaludMax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
