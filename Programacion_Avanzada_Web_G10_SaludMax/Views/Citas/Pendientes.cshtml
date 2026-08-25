@@ -1,0 +1,34 @@
+@model IEnumerable<Cita>
+
+@{
+    ViewData["Title"] = "Citas pendientes";
+}
+
+<section class="page-banner">
+    <div class="container page-shell">
+        <span class="eyebrow">Administración</span>
+        <h1 class="page-title">Citas pendientes</h1>
+        <p>Solicitudes que todavía requieren revisión.</p>
+    </div>
+</section>
+
+<section class="container section-pad">
+    @if (!Model.Any())
+    {
+        <div class="panel empty">No hay citas pendientes.</div>
+    }
+    else
+    {
+        <div class="service-grid">
+            @foreach (var cita in Model)
+            {
+                <article class="service-card">
+                    <span class="badge-status">@cita.Estado</span>
+                    <h2 class="h4 mt-3">@cita.Usuario?.Nombre</h2>
+                    <p>@cita.ServicioMedico?.Nombre<br />@cita.Fecha.ToString("dd/MM/yyyy") · @cita.Horario?.Hora.ToString(@"hh\:mm")</p>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@cita.Id">Actualizar estado</a>
+                </article>
+            }
+        </div>
+    }
+</section>

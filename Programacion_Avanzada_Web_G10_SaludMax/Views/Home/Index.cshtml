@@ -1,8 +1,52 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+@{
+    ViewData["Title"] = "Inicio";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="hero">
+    <div class="container hero-grid">
+        <div>
+            <span class="eyebrow">Atención médica sencilla y cercana</span>
+            <h1>Tu bienestar empieza con una cita.</h1>
+            <p>Encuentra el servicio que necesitas, elige un horario disponible y consulta el estado de tus citas desde un solo lugar.</p>
+
+            <div class="d-flex flex-wrap gap-2">
+                <a class="btn btn-dark btn-lg" asp-controller="ServiciosMedicos" asp-action="Index">Ver servicios</a>
+
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a class="btn btn-outline-dark btn-lg" asp-controller="Citas" asp-action="Create">Solicitar cita</a>
+                }
+                else
+                {
+                    <a class="btn btn-outline-dark btn-lg" asp-controller="Cuenta" asp-action="Registro">Crear cuenta</a>
+                }
+            </div>
+        </div>
+
+        <div class="hero-card">
+            <span class="hero-icon">✚</span>
+            <h2>SaludMAX</h2>
+            <p>Servicios médicos organizados alrededor de tu tiempo.</p>
+
+            <div class="mini-stat">
+                <strong>3 pasos</strong>
+                <span>Elige, agenda y da seguimiento</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container section-pad">
+    <div class="section-heading">
+        <div>
+            <span class="eyebrow">Todo en línea</span>
+            <h2>Atención sin complicaciones</h2>
+        </div>
+    </div>
+
+    <div class="feature-grid">
+        <article class="feature-card"><b>01</b><h3>Explora</h3><p>Consulta servicios médicos con información clara.</p></article>
+        <article class="feature-card"><b>02</b><h3>Agenda</h3><p>Selecciona una fecha y un horario disponible.</p></article>
+        <article class="feature-card"><b>03</b><h3>Consulta</h3><p>Revisa el estado y el historial desde tu perfil.</p></article>
+    </div>
+</section>

@@ -1,0 +1,12 @@
+@model IniciarSesionViewModel
+@{ ViewData["Title"] = "Iniciar sesión"; }
+<div class="container"><div class="auth-wrap"><form asp-action="IniciarSesion" method="post" class="auth-card">
+    <input type="hidden" name="returnUrl" value="@Context.Request.Query["returnUrl"]" />
+    <span class="eyebrow">Bienvenido</span><h1>Iniciar sesión</h1><p>Ingresa para consultar y gestionar tus citas.</p>
+    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+    <div class="field"><label asp-for="Correo" class="form-label"></label><input asp-for="Correo" class="form-control" autocomplete="email" /><span asp-validation-for="Correo" class="text-danger"></span></div>
+    <div class="field"><label asp-for="Contrasena" class="form-label"></label><input asp-for="Contrasena" class="form-control" autocomplete="current-password" /><span asp-validation-for="Contrasena" class="text-danger"></span></div>
+    <div class="form-check mb-3"><input asp-for="Recordarme" class="form-check-input" /><label asp-for="Recordarme" class="form-check-label"></label></div>
+    <button class="btn btn-primary w-100">Ingresar</button><p class="text-center mt-3 mb-0">¿No tienes cuenta? <a asp-action="Registro">Regístrate</a></p>
+</form></div></div>
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmpJyEdx6oQ=",
+  "dgSpecHash": "x60yyHaPnoM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danon\\OneDrive\\Documents\\GitHub\\Programacion_Avanzada_Web_G10_SaludMax\\Programacion_Avanzada_Web_G10_SaludMax\\Programacion_Avanzada_Web_G10_SaludMax.csproj",
+  "projectFilePath": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Programacion_Avanzada_Web_G10_SaludMax.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danon\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\danon\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,98 @@
+@model PerfilViewModel
+
+@{
+    ViewData["Title"] = "Mi perfil";
+    var activas = Model.Citas.Where(c =>
+        c.Estado == EstadoCita.Solicitada ||
+        c.Estado == EstadoCita.Confirmada
+    ).ToList();
+
+    var historial = Model.Citas.Where(c =>
+        c.Estado == EstadoCita.Finalizada ||
+        c.Estado == EstadoCita.Cancelada ||
+        c.Fecha.Date < DateTime.Today
+    ).ToList();
+}
+
+<section class="page-banner">
+    <div class="container page-shell profile-head">
+        <div class="avatar">@Model.Usuario.Nombre[0]</div>
+
+        <div>
+            <span class="eyebrow">Mi perfil</span>
+            <h1 class="h2 mb-1">@Model.Usuario.Nombre</h1>
+            <span>@Model.Usuario.Correo</span>
+        </div>
+    </div>
+</section>
+
+<section class="container section-pad">
+    <div class="section-heading">
+        <div>
+            <span class="eyebrow">Próximas atenciones</span>
+            <h2>Mis citas activas</h2>
+        </div>
+
+        <a class="btn btn-primary" asp-controller="Citas" asp-action="Create">Solicitar cita</a>
+    </div>
+
+    @if (!activas.Any())
+    {
+        <div class="panel empty">No tienes citas activas.</div>
+    }
+    else
+    {
+        <div class="service-grid">
+            @foreach (var cita in activas)
+            {
+                <article class="service-card">
+                    <span class="badge-status">@cita.Estado</span>
+                    <h3 class="mt-3">@cita.ServicioMedico?.Nombre</h3>
+                    <p>@cita.Fecha.ToString("dd/MM/yyyy") · @cita.Horario?.Hora.ToString(@"hh\:mm")</p>
+                    <a asp-controller="Citas" asp-action="Details" asp-route-id="@cita.Id">Ver detalle</a>
+                </article>
+            }
+        </div>
+    }
+
+    <div class="section-heading mt-5">
+        <div>
+            <span class="eyebrow">Actividad</span>
+            <h2>Historial de citas</h2>
+        </div>
+
+        <a asp-controller="Citas" asp-action="Index">Ver todas</a>
+    </div>
+
+    @if (!historial.Any())
+    {
+        <div class="panel empty">Todavía no tienes citas registradas.</div>
+    }
+    else
+    {
+        <div class="table-wrap">
+            <table class="table align-middle">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Horario</th>
+                        <th>Servicio</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var cita in historial)
+                    {
+                        <tr>
+                            <td>@cita.Fecha.ToString("dd/MM/yyyy")</td>
+                            <td>@cita.Horario?.Hora.ToString(@"hh\:mm")</td>
+                            <td>@cita.ServicioMedico?.Nombre</td>
+                            <td><span class="badge-status">@cita.Estado</span></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</section>

@@ -1,0 +1,48 @@
+@model Cita
+
+@{
+    var fechaMinima = DateTime.Today.ToString("yyyy-MM-dd");
+}
+
+<div asp-validation-summary="All" class="alert alert-danger"></div>
+
+<div class="field">
+    <label asp-for="ServicioMedicoId" class="form-label"></label>
+    <select asp-for="ServicioMedicoId" asp-items="ViewBag.ServicioMedicoId" class="form-select">
+        <option value="0">Selecciona un servicio</option>
+    </select>
+    <span asp-validation-for="ServicioMedicoId" class="text-danger"></span>
+</div>
+
+<div class="field">
+    <label asp-for="Fecha" class="form-label"></label>
+    <input asp-for="Fecha" type="date" min="@fechaMinima" class="form-control" />
+    <span asp-validation-for="Fecha" class="text-danger"></span>
+</div>
+
+<div class="field">
+    <label asp-for="HorarioId" class="form-label"></label>
+    <select asp-for="HorarioId" asp-items="ViewBag.HorarioId" class="form-select" data-cita-id="@Model.Id">
+        <option value="0">Selecciona un horario</option>
+    </select>
+    <span asp-validation-for="HorarioId" class="text-danger"></span>
+</div>
+
+@if (User.IsInRole("Administrador"))
+{
+    <div class="field">
+        <label asp-for="UsuarioId" class="form-label"></label>
+        <select asp-for="UsuarioId" asp-items="ViewBag.UsuarioId" class="form-select">
+            <option value="0">Selecciona un usuario</option>
+        </select>
+        <span asp-validation-for="UsuarioId" class="text-danger"></span>
+    </div>
+
+    <div class="field">
+        <label asp-for="Estado" class="form-label"></label>
+        <select asp-for="Estado" asp-items="Html.GetEnumSelectList<EstadoCita>()" class="form-select"></select>
+    </div>
+}
+
+<button type="submit" class="btn btn-primary">Guardar cita</button>
+<a class="btn btn-outline-dark" asp-action="Index">Cancelar</a>

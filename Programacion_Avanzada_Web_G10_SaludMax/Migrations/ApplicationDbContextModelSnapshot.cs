@@ -49,6 +49,10 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Migrations
 
                     b.HasIndex("HorarioId");
 
+                    b.HasIndex("Fecha", "HorarioId")
+                        .IsUnique()
+                        .HasFilter("[Estado] <> 3");
+
                     b.HasIndex("ServicioMedicoId");
 
                     b.HasIndex("UsuarioId");
@@ -99,11 +103,13 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Migrations
 
                     b.Property<string>("Descripcion")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("Id");
 
@@ -120,15 +126,18 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Migrations
 
                     b.Property<string>("Contrasena")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("Correo")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(160)
+                        .HasColumnType("nvarchar(160)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("RolId")
                         .HasColumnType("int");
@@ -136,6 +145,9 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("RolId");
+
+                    b.HasIndex("Correo")
+                        .IsUnique();
 
                     b.ToTable("Usuarios");
                 });
@@ -151,13 +163,13 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Migrations
                     b.HasOne("Programacion_Avanzada_Web_G10_SaludMax.Models.ServicioMedico", "ServicioMedico")
                         .WithMany("Citas")
                         .HasForeignKey("ServicioMedicoId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("Programacion_Avanzada_Web_G10_SaludMax.Models.Usuario", "Usuario")
                         .WithMany("Citas")
                         .HasForeignKey("UsuarioId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Horario");

@@ -1,113 +1,95 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>@ViewData["Title"] - SaludMAX</title>
-
-    <script type="importmap"></script>
-
-    <link rel="stylesheet"
-          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-
-    <link rel="stylesheet"
-          href="~/css/site.css"
-          asp-append-version="true" />
-
-    <link rel="stylesheet"
-          href="~/Programacion_Avanzada_Web_G10_SaludMax.styles.css"
-          asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
-
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
+    <header class="site-header">
+        <nav class="navbar navbar-expand-lg navbar-light container py-2">
+            <a class="navbar-brand brand" asp-controller="Home" asp-action="Index">SaludMAX</a>
 
-                <a class="navbar-brand"
-                       asp-area=""
-                       asp-controller="Home"
-                       asp-action="Index">
-                    SaludMAX
-                </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-label="Abrir menú">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-                <button class="navbar-toggler"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target=".navbar-collapse"
-                        aria-controls="navbarSupportedContent"
-                        aria-expanded="false"
-                        aria-label="Toggle navigation">
+            <div id="menu" class="collapse navbar-collapse">
+                <ul class="navbar-nav mx-auto gap-lg-2">
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Inicio</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="ServiciosMedicos" asp-action="Index">Servicios</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Contacto">Contacto</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="AcercaDe">Acerca de</a></li>
 
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                    @if (User.Identity?.IsAuthenticated == true)
+                    {
+                        <li class="nav-item"><a class="nav-link" asp-controller="Citas" asp-action="Index">Mis citas</a></li>
+                    }
 
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    @if (User.IsInRole("Administrador"))
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Administración</a>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                                   asp-area=""
-                                   asp-controller="Home"
-                                   asp-action="Index">
-                                Inicio
-                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Usuarios" asp-action="Index">Usuarios</a></li>
+                                <li><a class="dropdown-item" asp-controller="ServiciosMedicos" asp-action="Index">Servicios médicos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Citas" asp-action="Index">Todas las citas</a></li>
+                                <li><a class="dropdown-item" asp-controller="Citas" asp-action="Pendientes">Citas pendientes</a></li>
+                            </ul>
                         </li>
+                    }
+                </ul>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                                   asp-area=""
-                                   asp-controller="ServiciosMedicos"
-                                   asp-action="Index">
-                                Servicios médicos
-                            </a>
-                        </li>
+                <div class="d-flex align-items-center gap-2 account-links">
+                    @if (User.Identity?.IsAuthenticated == true)
+                    {
+                        <a class="btn btn-light btn-sm" asp-controller="Cuenta" asp-action="Perfil">@User.Identity.Name</a>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                                   asp-area=""
-                                   asp-controller="Usuarios"
-                                   asp-action="Index">
-                                Usuarios
-                            </a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                                   asp-area=""
-                                   asp-controller="Citas"
-                                   asp-action="Index">
-                                Citas
-                            </a>
-                        </li>
-
-                    </ul>
+                        <form asp-controller="Cuenta" asp-action="CerrarSesion" method="post">
+                            <button type="submit" class="btn btn-outline-dark btn-sm">Salir</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <a class="btn btn-light btn-sm" asp-controller="Cuenta" asp-action="IniciarSesion">Ingresar</a>
+                        <a class="btn btn-dark btn-sm" asp-controller="Cuenta" asp-action="Registro">Crear cuenta</a>
+                    }
                 </div>
             </div>
         </nav>
     </header>
 
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+    <main>
+        @if (TempData["Exito"] is string mensaje)
+        {
+            <div class="container mt-3">
+                <div class="alert alert-success mb-0">@mensaje</div>
+            </div>
+        }
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2026 - SaludMAX
+        @if (TempData["Error"] is string error)
+        {
+            <div class="container mt-3">
+                <div class="alert alert-danger mb-0">@error</div>
+            </div>
+        }
+
+        @RenderBody()
+    </main>
+
+    <footer class="site-footer">
+        <div class="container d-flex flex-wrap justify-content-between">
+            <span>© 2026 SaludMAX</span>
+            <span>Tu salud, más cerca</span>
         </div>
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
-    <script src="~/js/site.js"
-            asp-append-version="true"></script>
-
+    <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

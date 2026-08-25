@@ -1,0 +1,7 @@
+@model Usuario
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="field"><label asp-for="Nombre" class="form-label"></label><input asp-for="Nombre" class="form-control" /><span asp-validation-for="Nombre" class="text-danger"></span></div>
+<div class="field"><label asp-for="Correo" class="form-label"></label><input asp-for="Correo" class="form-control" /><span asp-validation-for="Correo" class="text-danger"></span></div>
+<div class="field"><label asp-for="Contrasena" class="form-label"></label><input asp-for="Contrasena" class="form-control" autocomplete="new-password" placeholder="@(Model.Id > 0 ? "Dejar vacío para conservarla" : "Mínimo 6 caracteres")" /><span asp-validation-for="Contrasena" class="text-danger"></span></div>
+<div class="field"><label asp-for="RolId" class="form-label"></label><select asp-for="RolId" asp-items="ViewBag.RolId" class="form-select"><option value="0">Selecciona un rol</option></select><span asp-validation-for="RolId" class="text-danger"></span></div>
+<button class="btn btn-primary">Guardar</button><a class="btn btn-outline-dark" asp-action="Index">Cancelar</a>

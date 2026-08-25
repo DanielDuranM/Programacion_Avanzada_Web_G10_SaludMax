@@ -1,4 +1,22 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+const fecha = document.querySelector("#Fecha");
+const horario = document.querySelector("#HorarioId");
 
-// Write your JavaScript code.
+if (fecha && horario) {
+    fecha.addEventListener("change", async () => {
+        const valorActual = horario.value;
+        const citaId = horario.dataset.citaId || 0;
+
+        const respuesta = await fetch(`/Citas/HorariosDisponibles?fecha=${fecha.value}&citaId=${citaId}`);
+        const datos = await respuesta.json();
+
+        horario.innerHTML =
+            '<option value="0">Selecciona un horario</option>' +
+            datos.map(h => `<option value="${h.id}">${h.hora}</option>`).join("");
+
+        if ([...horario.options].some(option => option.value === valorActual)) {
+            horario.value = valorActual;
+        }
+    });
+
+    fecha.dispatchEvent(new Event("change"));
+}

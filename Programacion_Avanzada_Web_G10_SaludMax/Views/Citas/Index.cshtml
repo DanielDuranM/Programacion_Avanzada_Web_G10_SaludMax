@@ -1,64 +1,85 @@
-﻿@model IEnumerable<Programacion_Avanzada_Web_G10_SaludMax.Models.Cita>
+@model IEnumerable<Cita>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = User.IsInRole("Administrador") ? "Todas las citas" : "Mis citas";
 }
 
-<h1>Index</h1>
+<section class="page-banner">
+    <div class="container page-shell">
+        <span class="eyebrow">Seguimiento</span>
+        <h1 class="page-title">@ViewData["Title"]</h1>
+        <p>Consulta fechas, servicios y estados desde un solo lugar.</p>
+    </div>
+</section>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<section class="container section-pad">
+    <div class="d-flex flex-wrap justify-content-between gap-2 mb-3">
+        <a class="btn btn-primary" asp-action="Create">Solicitar cita</a>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                Fecha de la cita
-            </th>
-            <th>
-                Horario
-            </th>
-            <th>
-                Estado
-            </th>
-            <th>
-                Usuario
-            </th>
-            <th>
-                Servicio médico
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-
-    <tbody>
-        @foreach (var item in Model)
+        @if (User.IsInRole("Administrador"))
         {
-            <tr>
-                <td>
-                    @item.Fecha.ToString("dd/MM/yyyy")
-                </td>
-                <td>
-                    @(item.Horario != null
-                        ? item.Horario.Hora.ToString(@"hh\:mm")
-                        : "Sin horario")
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Estado)
-                </td>
-                <td>
-                    @(item.Usuario?.Nombre ?? "Sin usuario")
-                </td>
-                <td>
-                    @(item.ServicioMedico?.Nombre ?? "Sin servicio")
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
-            </tr>
+            <a class="btn btn-dark" asp-action="Pendientes">Ver pendientes</a>
         }
-    </tbody>
-</table>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="panel empty">Todavía no hay citas registradas.</div>
+    }
+    else
+    {
+        <div class="table-wrap">
+            <table class="table align-middle">
+                <thead>
+                    <tr>
+                        @if (User.IsInRole("Administrador"))
+                        {
+                            <th>Paciente</th>
+                        }
+
+                        <th>Fecha</th>
+                        <th>Horario</th>
+                        <th>Servicio</th>
+                        <th>Estado</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            @if (User.IsInRole("Administrador"))
+                            {
+                                <td>@item.Usuario?.Nombre</td>
+                            }
+
+                            <td>@item.Fecha.ToString("dd/MM/yyyy")</td>
+                            <td>@item.Horario?.Hora.ToString(@"hh\:mm")</td>
+                            <td>@item.ServicioMedico?.Nombre</td>
+                            <td><span class="badge-status">@item.Estado</span></td>
+
+                            <td>
+                                <div class="d-flex flex-wrap gap-1">
+                                    <a class="btn btn-sm btn-outline-dark" asp-action="Details" asp-route-id="@item.Id">Detalle</a>
+
+                                    @if (User.IsInRole("Administrador"))
+                                    {
+                                        <a class="btn btn-sm btn-light" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                                    }
+
+                                    @if (item.Estado == EstadoCita.Solicitada || item.Estado == EstadoCita.Confirmada)
+                                    {
+                                        <form asp-action="Cancelar" asp-route-id="@item.Id" method="post">
+                                            <button type="submit" class="btn btn-sm btn-outline-danger">Cancelar</button>
+                                        </form>
+                                    }
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</section>

@@ -1,0 +1,55 @@
+@model ContactoViewModel
+
+@{
+    ViewData["Title"] = "Contacto";
+}
+
+<section class="page-banner">
+    <div class="container page-shell">
+        <span class="eyebrow">Estamos para ayudarte</span>
+        <h1 class="page-title">Hablemos.</h1>
+    </div>
+</section>
+
+<section class="container section-pad">
+    <div class="contact-grid">
+        <div>
+            <h2>Información de contacto</h2>
+            <p>Escríbenos y nuestro equipo responderá tu consulta.</p>
+
+            <div class="info-list mt-4">
+                <div class="info-item"><b>Teléfono</b><br />+506 2222-2222</div>
+                <div class="info-item"><b>Correo</b><br />contacto@saludmax.com</div>
+                <div class="info-item"><b>Horario</b><br />Lunes a viernes, 8:00 a. m. - 5:00 p. m.</div>
+            </div>
+        </div>
+
+        <form asp-action="Contacto" method="post" class="panel">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="field">
+                <label asp-for="Nombre" class="form-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="field">
+                <label asp-for="Correo" class="form-label"></label>
+                <input asp-for="Correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+
+            <div class="field">
+                <label asp-for="Mensaje" class="form-label"></label>
+                <textarea asp-for="Mensaje" rows="6" class="form-control"></textarea>
+                <span asp-validation-for="Mensaje" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Enviar mensaje</button>
+        </form>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

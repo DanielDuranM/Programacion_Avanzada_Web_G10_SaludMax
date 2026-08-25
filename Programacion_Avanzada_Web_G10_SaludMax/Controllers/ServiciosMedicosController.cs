@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Programacion_Avanzada_Web_G10_SaludMax.Data;
@@ -44,6 +45,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
         }
 
         // GET: ServiciosMedicos/Create
+        [Authorize(Roles = "Administrador")]
         public IActionResult Create()
         {
             return View();
@@ -53,6 +55,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
+        [Authorize(Roles = "Administrador")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion")] ServicioMedico servicioMedico)
         {
@@ -66,6 +69,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
         }
 
         // GET: ServiciosMedicos/Edit/5
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -85,6 +89,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
+        [Authorize(Roles = "Administrador")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nombre,Descripcion")] ServicioMedico servicioMedico)
         {
@@ -117,6 +122,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
         }
 
         // GET: ServiciosMedicos/Delete/5
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -136,6 +142,7 @@ namespace Programacion_Avanzada_Web_G10_SaludMax.Controllers
 
         // POST: ServiciosMedicos/Delete/5
         [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = "Administrador")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

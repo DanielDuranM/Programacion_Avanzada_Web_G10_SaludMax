@@ -1,104 +1,25 @@
-﻿@model Programacion_Avanzada_Web_G10_SaludMax.Models.Cita
+@model Cita
 
 @{
-    ViewData["Title"] = "Create";
-    var fechaMinima = DateTime.Today.ToString("yyyy-MM-dd");
+    ViewData["Title"] = "Solicitar cita";
 }
 
-<h1>Create</h1>
+<section class="page-banner">
+    <div class="container page-shell">
+        <span class="eyebrow">Agenda tu atenci�n</span>
+        <h1 class="page-title">Solicitar cita</h1>
+        <p>Selecciona un servicio, una fecha y un horario disponible.</p>
+    </div>
+</section>
 
-<h4>Cita</h4>
-<hr />
-
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly"
-                 class="text-danger"></div>
-
-            <div class="form-group">
-                <label asp-for="Fecha"
-                       class="control-label"></label>
-
-                <input asp-for="Fecha"
-                       class="form-control"
-                       type="date"
-                       min="@fechaMinima" />
-
-                <span asp-validation-for="Fecha"
-                      class="text-danger"></span>
-            </div>
-
-            <div class="form-group">
-                <label asp-for="HorarioId"
-                       class="control-label"></label>
-
-                <select asp-for="HorarioId"
-                        class="form-control"
-                        asp-items="ViewBag.HorarioId">
-                    <option value="0">Seleccione un horario</option>
-                </select>
-
-                <span asp-validation-for="HorarioId"
-                      class="text-danger"></span>
-            </div>
-
-            <div class="form-group">
-                <label asp-for="Estado"
-                       class="control-label"></label>
-
-                <select asp-for="Estado"
-                        class="form-control"
-                        asp-items="Html.GetEnumSelectList<EstadoCita>()">
-                </select>
-
-                <span asp-validation-for="Estado"
-                      class="text-danger"></span>
-            </div>
-
-            <div class="form-group">
-                <label asp-for="UsuarioId"
-                       class="control-label"></label>
-
-                <select asp-for="UsuarioId"
-                        class="form-control"
-                        asp-items="ViewBag.UsuarioId">
-                    <option value="0">Seleccione un usuario</option>
-                </select>
-
-                <span asp-validation-for="UsuarioId"
-                      class="text-danger"></span>
-            </div>
-
-            <div class="form-group">
-                <label asp-for="ServicioMedicoId"
-                       class="control-label"></label>
-
-                <select asp-for="ServicioMedicoId"
-                        class="form-control"
-                        asp-items="ViewBag.ServicioMedicoId">
-                    <option value="0">Seleccione un servicio médico</option>
-                </select>
-
-                <span asp-validation-for="ServicioMedicoId"
-                      class="text-danger"></span>
-            </div>
-
-            <div class="form-group">
-                <input type="submit"
-                       value="Create"
-                       class="btn btn-primary" />
-            </div>
+<div class="container section-pad">
+    <div class="auth-wrap mt-0">
+        <form asp-controller="Citas" asp-action="Create" method="post" class="panel">
+            <partial name="_Form" model="Model" />
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
+    <partial name="_ValidationScriptsPartial" />
 }

@@ -1,41 +1,59 @@
-﻿@model IEnumerable<Programacion_Avanzada_Web_G10_SaludMax.Models.ServicioMedico>
+@model IEnumerable<ServicioMedico>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Servicios médicos";
 }
 
-<h1>Index</h1>
+<section class="page-banner">
+    <div class="container page-shell">
+        <span class="eyebrow">Elige tu atención</span>
+        <h1 class="page-title">Servicios médicos</h1>
+        <p>Conoce nuestras opciones y solicita una cita en el horario que más te convenga.</p>
+    </div>
+</section>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Descripcion)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Descripcion)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<section class="container section-pad">
+    @if (User.IsInRole("Administrador"))
+    {
+        <div class="text-end mb-3">
+            <a class="btn btn-dark" asp-action="Create">Agregar servicio</a>
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="panel empty">No hay servicios médicos registrados.</div>
+    }
+    else
+    {
+        <div class="service-grid">
+            @foreach (var item in Model)
+            {
+                <article class="service-card">
+                    <span class="eyebrow">SaludMAX</span>
+                    <h2 class="h3 mt-3">@item.Nombre</h2>
+                    <p>@item.Descripcion</p>
+
+                    <div class="d-flex flex-wrap gap-2">
+                        @if (User.Identity?.IsAuthenticated == true)
+                        {
+                            <a class="btn btn-primary" asp-controller="Citas" asp-action="Create" asp-route-servicioId="@item.Id">Solicitar cita</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-primary" asp-controller="Cuenta" asp-action="IniciarSesion">Ingresar para solicitar</a>
+                        }
+
+                        <a class="btn btn-outline-dark" asp-action="Details" asp-route-id="@item.Id">Detalles</a>
+
+                        @if (User.IsInRole("Administrador"))
+                        {
+                            <a class="btn btn-light" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                            <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                        }
+                    </div>
+                </article>
+            }
+        </div>
+    }
+</section>
