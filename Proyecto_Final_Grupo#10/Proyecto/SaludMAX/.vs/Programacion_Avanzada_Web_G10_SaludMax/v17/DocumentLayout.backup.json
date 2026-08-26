@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\cuenta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\cuenta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\programacion_avanzada_web_g10_saludmax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:programacion_avanzada_web_g10_saludmax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\pendientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\pendientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\serviciosmedicos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\serviciosmedicos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\serviciosmedicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\serviciosmedicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\home\\acercade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\home\\acercade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\models\\cuentaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:models\\cuentaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|c:\\users\\danon\\onedrive\\documents\\universidad\\2026\\segundo cautri\\programacion avanzada web\\proyectofinal\\saludmax\\saludmax\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276DF676-68CA-4D95-82F3-C0FDF2188B86}|Programacion_Avanzada_Web_G10_SaludMax.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAArwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:03:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-24T01:41:38.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-24T01:23:04.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:23:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Programacion_Avanzada_Web_G10_SaludMax",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Programacion_Avanzada_Web_G10_SaludMax.csproj",
+              "RelativeDocumentMoniker": "Programacion_Avanzada_Web_G10_SaludMax.csproj",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Programacion_Avanzada_Web_G10_SaludMax.csproj",
+              "RelativeToolTip": "Programacion_Avanzada_Web_G10_SaludMax.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T01:10:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-08-24T01:06:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:06:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:06:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pendientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Pendientes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Pendientes.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Pendientes.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Pendientes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:06:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:05:51.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:05:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\_Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\_Form.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Citas\\_Form.cshtml",
+              "RelativeToolTip": "Views\\Citas\\_Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:05:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\ServiciosMedicos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiciosMedicos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\ServiciosMedicos\\Details.cshtml",
+              "RelativeToolTip": "Views\\ServiciosMedicos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:05:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\ServiciosMedicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiciosMedicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\ServiciosMedicos\\Index.cshtml",
+              "RelativeToolTip": "Views\\ServiciosMedicos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:05:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Cuenta\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cuenta\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Cuenta\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Cuenta\\Perfil.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwFkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:04:51.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contacto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:04:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AcercaDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\AcercaDe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AcercaDe.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\AcercaDe.cshtml",
+              "RelativeToolTip": "Views\\Home\\AcercaDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:04:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:03:45.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T01:03:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CuentaViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Models\\CuentaViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\CuentaViewModels.cs",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Models\\CuentaViewModels.cs",
+              "RelativeToolTip": "Models\\CuentaViewModels.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:01:45.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:59:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T00:59:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\danon\\OneDrive\\Documents\\Universidad\\2026\\Segundo Cautri\\Programacion avanzada web\\Proyectofinal\\SaludMAX\\SaludMAX\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:59:02.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

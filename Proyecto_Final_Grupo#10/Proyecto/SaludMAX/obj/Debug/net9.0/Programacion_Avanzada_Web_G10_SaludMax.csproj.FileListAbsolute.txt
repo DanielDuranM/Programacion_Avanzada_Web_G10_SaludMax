@@ -1,0 +1,547 @@
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.AssemblyReference.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfoInputs.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfo.cs
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.CoreCompileInputs.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cs
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\bundle\Programacion_Avanzada_Web_G10_SaludMax.styles.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\projectbundle\Programacion_Avanzada_Web_G10_SaludMax.bundle.scp.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\c86txteb22-j5pxrdrpxq.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\juo0a4fb8b-61n19gt1b8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\axa1ktflkt-j73thfxikb.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\3al67a8x6l-bqjiyaj88i.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\w6aaq8rwh4-c2jlpeoesf.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\sj1504t9n3-erw9l3u2r3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\j3p20nuqzv-aexeepp0ev.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\zesv7ej4sq-d7shbmvgxk.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pdarvmeeuu-ausgxo2sd3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\3xxmholh4u-k8d9w2qqmf.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\cxxttzmo74-cosvhxvwiu.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\0vgeczeu0s-ub07r2b239.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\esksrnnzin-fvhpjtyr6v.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\fo9b933iri-b7pk76d08c.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\1p9tsdu017-fsbi9cje9m.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\u5fildlspi-rzd6atqjts.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6s0m33cpho-ee0r1s7dh0.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\t434j9ja8m-dxx9fxp4il.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\4yhtddsjtz-jd9uben2k1.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\002e6wsh76-khv3u5hwcm.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\tix5k7gfy2-r4e9w2rdcm.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\mc3dpi7v7t-lcd1t2u6c8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\jmc6aku5w1-c2oey78nd0.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\hsmuuow0yt-tdbxkamptv.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qn7harprwz-j5mq2jizvt.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\of6ffxl0yb-06098lyss8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\kqqfc3o8h5-nvvlpmu67g.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\bvv1gr1msd-s35ty4nyc5.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\9603ryp4ku-pj5nd1wqec.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\8y1bbf0cav-46ein0sx1k.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ivtrexkgay-v0zj4ognzu.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\oq386o3ivy-37tfw0ft22.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\17faq8m25p-hrwsygsryq.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\9b3ebpwqe2-pk9g2wxc8p.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\7xws0ggx48-ft3s53vfgj.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\g5tja2ztv5-6cfz1n2cew.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pld7m5amoy-6pdc2jztkx.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\x2t132hvxe-493y06b0oq.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pszpog2qu4-iovd86k7lj.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6sxi2h13nl-vr1egmr9el.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\gps5vbt4fh-kbrnm935zg.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\wntv8efku0-jj8uyg4cgr.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\tuyjclud8l-y7v9cxd14o.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ianya8czz2-notf2xhcfb.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6km0851xt1-h1s4sie4z3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ex7q1zczec-63fj8s7r0e.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\152p79dvly-0j3bgjxly4.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qrg2oh73px-47otxtyo56.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qjz6107g61-4v8eqarkd7.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\dqvkurydps-l3n5xuwxn8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\e2tw6loh30-ilo7uva0vt.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\zmcz6ffcn5-qlccset4i1.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\52cvo2hhzx-lzl9nlhx6b.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\slql2r6svd-ag7o75518u.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\1j4frt3mbj-xzw0cte36n.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\u5plpa5dpy-0i3buxo5is.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\lpvnt3fhno-o1o13a6vjx.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\uf7vlhv1kf-ttgo8qnofa.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\xinpevkk2r-2z0ns9nrw6.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\78kckksqzx-muycvpuwrr.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\gp18esditf-87fc7y1x7t.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\mhdkljmlgj-jfsiqqwiad.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\4t9ohrmvhu-1r4apb6qrs.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\jt6r34mb88-1r4apb6qrs.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\refint\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofina;l\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\appsettings.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.staticwebassets.runtime.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.staticwebassets.endpoints.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.exe
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.deps.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.runtimeconfig.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Humanizer.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.AssemblyReference.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfoInputs.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfo.cs
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.CoreCompileInputs.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cs
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\bundle\Programacion_Avanzada_Web_G10_SaludMax.styles.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\scopedcss\projectbundle\Programacion_Avanzada_Web_G10_SaludMax.bundle.scp.css
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\juo0a4fb8b-61n19gt1b8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\axa1ktflkt-j73thfxikb.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\3al67a8x6l-bqjiyaj88i.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\w6aaq8rwh4-c2jlpeoesf.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\sj1504t9n3-erw9l3u2r3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\j3p20nuqzv-aexeepp0ev.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\zesv7ej4sq-d7shbmvgxk.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pdarvmeeuu-ausgxo2sd3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\3xxmholh4u-k8d9w2qqmf.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\cxxttzmo74-cosvhxvwiu.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\0vgeczeu0s-ub07r2b239.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\esksrnnzin-fvhpjtyr6v.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\fo9b933iri-b7pk76d08c.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\1p9tsdu017-fsbi9cje9m.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\u5fildlspi-rzd6atqjts.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6s0m33cpho-ee0r1s7dh0.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\t434j9ja8m-dxx9fxp4il.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\4yhtddsjtz-jd9uben2k1.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\002e6wsh76-khv3u5hwcm.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\tix5k7gfy2-r4e9w2rdcm.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\mc3dpi7v7t-lcd1t2u6c8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\jmc6aku5w1-c2oey78nd0.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\hsmuuow0yt-tdbxkamptv.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qn7harprwz-j5mq2jizvt.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\of6ffxl0yb-06098lyss8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\kqqfc3o8h5-nvvlpmu67g.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\bvv1gr1msd-s35ty4nyc5.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\9603ryp4ku-pj5nd1wqec.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\8y1bbf0cav-46ein0sx1k.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ivtrexkgay-v0zj4ognzu.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\oq386o3ivy-37tfw0ft22.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\17faq8m25p-hrwsygsryq.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\9b3ebpwqe2-pk9g2wxc8p.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\7xws0ggx48-ft3s53vfgj.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\g5tja2ztv5-6cfz1n2cew.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pld7m5amoy-6pdc2jztkx.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\x2t132hvxe-493y06b0oq.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\pszpog2qu4-iovd86k7lj.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6sxi2h13nl-vr1egmr9el.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\gps5vbt4fh-kbrnm935zg.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\wntv8efku0-jj8uyg4cgr.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\tuyjclud8l-y7v9cxd14o.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ianya8czz2-notf2xhcfb.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\6km0851xt1-h1s4sie4z3.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\ex7q1zczec-63fj8s7r0e.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\152p79dvly-0j3bgjxly4.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qrg2oh73px-47otxtyo56.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\qjz6107g61-4v8eqarkd7.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\dqvkurydps-l3n5xuwxn8.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\e2tw6loh30-ilo7uva0vt.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\zmcz6ffcn5-qlccset4i1.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\52cvo2hhzx-lzl9nlhx6b.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\slql2r6svd-ag7o75518u.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\1j4frt3mbj-xzw0cte36n.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\u5plpa5dpy-0i3buxo5is.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\lpvnt3fhno-o1o13a6vjx.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\uf7vlhv1kf-ttgo8qnofa.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\xinpevkk2r-2z0ns9nrw6.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\78kckksqzx-muycvpuwrr.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\gp18esditf-87fc7y1x7t.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\mhdkljmlgj-jfsiqqwiad.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\4t9ohrmvhu-1r4apb6qrs.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\jt6r34mb88-1r4apb6qrs.gz
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programa.06EBC1ED.Up2Date
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\refint\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.genruntimeconfig.cache
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\ref\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\danon\OneDrive\Documents\Universidad\2026\Segundo Cautri\Programacion avanzada web\Proyectofinal\SaludMAX\SaludMAX\obj\Debug\net9.0\compressed\c86txteb22-1hmr3empq8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\appsettings.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.staticwebassets.runtime.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.staticwebassets.endpoints.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.exe
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.deps.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.runtimeconfig.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.AssemblyReference.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfoInputs.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.AssemblyInfo.cs
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.RazorAssemblyInfo.cs
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\scopedcss\bundle\Programacion_Avanzada_Web_G10_SaludMax.styles.css
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\scopedcss\projectbundle\Programacion_Avanzada_Web_G10_SaludMax.bundle.scp.css
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\5ooknla14o-{0}-1hmr3empq8-1hmr3empq8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\eqwesh9v2q-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\qsluahrkrl-{0}-j73thfxikb-j73thfxikb.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\spxmzdje6m-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\0tk8j2g8rr-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\jhofe188ym-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\dxqppu66r0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\8jrb3ccgqx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\6djzndyurj-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ch1ntnkdat-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\va48evqs8k-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\zrdn8215lw-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\f60kpxal8d-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\jqodf2q169-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\35v2duvuua-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\e0cuk7ycs1-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\7c377qhyx0-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\a0vh2b0ynk-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\37sryk2g48-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\0tjh1b5nhc-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\9d7oz06622-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\h2kj57v5ok-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\478re7ytye-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ec6308epfa-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\pei42moxan-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\j75oosdha6-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\1yos11zlxc-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\wqkzje5ncl-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\dkegb17ltv-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\1fdnd9s933-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ae5gjk820t-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\td9pyy8adu-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\xzkl70h48p-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\hnu16i1kpe-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\698ucfsl55-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\27ez5hiipt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\80mdjt2e3y-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\nfennzt1on-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\gk0jp2pmjo-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ho46auzg79-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\vodreloo39-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\lpifgi8m2r-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\7mf9tm9g56-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\cfhri9gvfk-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\xnfbtzpq7y-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ucw5iqt5k0-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\d1v1838371-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\k91172343v-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ron9zjxp6f-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\wy69u95elb-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\fj2ufx5ycv-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\oqqa9tr4rl-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\9jxunon79b-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\rexns09agx-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\vi8qma066h-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\ugg8jzlvo4-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\lxyr9nc15z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\scir0ljrz3-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\hdhp8bsphu-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\m1rk1hvkck-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\lq2im6dq9m-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\cj51puyjer-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\t5s8nlq8kb-{0}-e70y15rj07-e70y15rj07.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\compressed\anu2eoindk-{0}-e70y15rj07-e70y15rj07.gz
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programa.06EBC1ED.Up2Date
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\refint\Programacion_Avanzada_Web_G10_SaludMax.dll
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.pdb
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\Programacion_Avanzada_Web_G10_SaludMax.genruntimeconfig.cache
+C:\Users\Carlos Fernandez\Downloads\Progra Web\Proyecto_Final_Grupo#10\Proyecto\SaludMAX\obj\Debug\net9.0\ref\Programacion_Avanzada_Web_G10_SaludMax.dll
